@@ -129,7 +129,7 @@ var message = {
     butit = "Stop"
     /********************************** */
       //*****Lambda Function to get the URL ******* */
-      await fetch('https://1bt5fijq3b.execute-api.us-east-1.amazonaws.com/default/text-bedrock').then((response) => response.json())
+      await fetch('Lambda function').then((response) => response.json())
       .then (async (data) =>  {
     const decrypt1 = data[0]
     const decrypt2 = data[1]
