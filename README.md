@@ -24,3 +24,8 @@ Help
 
     Increase the token parameter model to extract more text and image display.
     Change inference parameters for randomness.
+
+
+License
+
+This project is licensed under the Apache License - see the LICENSE.md file for details
